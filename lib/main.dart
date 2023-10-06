@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ecotrackflutter/features/design.dart';
+import 'package:ecotrackflutter/features/home.dart';
 
 void main() {
   runApp(EcoTrackApp());
