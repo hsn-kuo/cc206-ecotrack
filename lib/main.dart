@@ -1,5 +1,33 @@
-import 'package:flutter/material.dart';
-import 'package:ecotrackflutter/features/home.dart';
+import 'package:flutter/material.dart'
+    show
+        AppBar,
+        BottomNavigationBar,
+        BottomNavigationBarItem,
+        BuildContext,
+        Center,
+        Colors,
+        Column,
+        EdgeInsets,
+        ElevatedButton,
+        Icon,
+        Icons,
+        InputDecoration,
+        MainAxisAlignment,
+        MaterialApp,
+        Padding,
+        Scaffold,
+        SizedBox,
+        State,
+        StatefulWidget,
+        StatelessWidget,
+        Text,
+        TextEditingController,
+        TextField,
+        TextStyle,
+        ThemeData,
+        Widget,
+        runApp;
+import 'package:ecotrackflutter/features/design.dart';
 
 void main() {
   runApp(EcoTrackApp());
